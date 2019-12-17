@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{581633EB-B896-402F-8E60-36F3DA191C85}") = "InvoiceManagement29239", "InvoiceManagement29239\InvoiceManagement29239.lsxtproj", "{C9615C1F-FC31-4551-8BD0-7530611D18F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagement29239.Server", "InvoiceManagement29239\InvoiceManagement29239.Server\InvoiceManagement29239.Server.csproj", "{215E52B2-068E-4757-956A-5824C56377C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceManagement29239.DesktopClient", "InvoiceManagement29239\InvoiceManagement29239.DesktopClient\InvoiceManagement29239.DesktopClient.csproj", "{28D1A4D1-76A2-4628-BD18-339E85881228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9615C1F-FC31-4551-8BD0-7530611D18F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9615C1F-FC31-4551-8BD0-7530611D18F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9615C1F-FC31-4551-8BD0-7530611D18F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9615C1F-FC31-4551-8BD0-7530611D18F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215E52B2-068E-4757-956A-5824C56377C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215E52B2-068E-4757-956A-5824C56377C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215E52B2-068E-4757-956A-5824C56377C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215E52B2-068E-4757-956A-5824C56377C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D1A4D1-76A2-4628-BD18-339E85881228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D1A4D1-76A2-4628-BD18-339E85881228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D1A4D1-76A2-4628-BD18-339E85881228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D1A4D1-76A2-4628-BD18-339E85881228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

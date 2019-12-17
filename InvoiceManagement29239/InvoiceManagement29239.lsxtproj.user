@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EnableENC>False</EnableENC>
+    <ProjectView>ProjectFiles</ProjectView>
+    <StartUpClientProject>InvoiceManagement29239.DesktopClient</StartUpClientProject>
+    <SchemaManagementLastSsdlWriteTime>637104955244327114</SchemaManagementLastSsdlWriteTime>
+    <SchemaManagementSchemaBuildState>0</SchemaManagementSchemaBuildState>
+    <SchemaManagementDatabaseIncludesSecurityObjects>True</SchemaManagementDatabaseIncludesSecurityObjects>
+    <GrantedPermissions>LightSwitchApplication:Can_Add_Employees,Microsoft.LightSwitch.Security:SecurityAdministration,LightSwitchApplication:Can_Delete_Employees,LightSwitchApplication:Can_Edit_Employees,LightSwitchApplication:Can_View_Employees,LightSwitchApplication:Can_View_Customers,LightSwitchApplication:Can_Add_Customers,LightSwitchApplication:Can_Edit_Customers,LightSwitchApplication:Can_Delete_Customers,LightSwitchApplication:Can_View_Orders,LightSwitchApplication:Can_Add_Orders,LightSwitchApplication:Can_Edit_Orders,LightSwitchApplication:Can_Delete_Orders,LightSwitchApplication:Can_View_OrderDetails,LightSwitchApplication:Can_Add_OrderDetails,LightSwitchApplication:Can_Edit_OrderDetails,LightSwitchApplication:Can_Delete_OrderDetails,LightSwitchApplication:Can_View_Products,LightSwitchApplication:Can_Add_Products,LightSwitchApplication:Can_Edit_Products,LightSwitchApplication:Can_Delete_Products,LightSwitchApplication:Can_View_Invoices,LightSwitchApplication:Can_Add_Invoices,LightSwitchApplication:Can_Edit_Invoices,LightSwitchApplication:Can_Delete_Invoices</GrantedPermissions>
+    <EncryptedPublishConnectionString>
+    </EncryptedPublishConnectionString>
+    <EncryptedPublishSchemaConnectionString />
+    <EncryptedClientConnectionString>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKvQAlh12QkiW1tqpnexvSwAAAAACAAAAAAAQZgAAAAEAACAAAABK5PwVo1pWnNuDK9ei3Os7UbXlRvL5CS1Pl8NeYKzj0AAAAAAOgAAAAAIAACAAAABjGc9WrBK98q1ZbVBlenXj/yWaUuswdntTkQBib/jbt7AAAABbQqonHuMBNkM+I7bEVHCa68tptbhVqvdiGM5K+x6TUy1EGdXCShWniHh8giJZXmuiM89TdffrUoOAt5lqu3o8ge+iypi2amJI7vC59gLbRWmswrb84e6bdtL8nwbZtNfL3cL1bCuqDE8iOLqT/7A7zGPptckB8URgN5/EuhXAeiIN8EZo+1oFJueGpkhqbLnYgyIIE+dej1yj7UaKq5sN534T6gqOJ6xImf19xyHmQEAAAADLFuPSC48aO2+lqEVt9DaYMb4ToW2TxOeBVE/4c3RBO0nXrFfVOsUGV/SkS2QObTJ7pzYqRF5pp7z9XWNWM2DQ</EncryptedClientConnectionString>
+    <EncryptedAdministratorPassword />
+    <PublishUserName />
+    <EncryptedPublishUserPassword />
+    <AzureSubscriptionId>00000000-0000-0000-0000-000000000000</AzureSubscriptionId>
+    <AzureManagementThumbprint />
+    <SharePointServerToServerCertificatePassword />
+  </PropertyGroup>
+</Project>

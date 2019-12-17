@@ -1,0 +1,104 @@
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSSvcGeneratorsTask.mcs
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSResourceGeneratorsTask.mcs
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSServerCodeGeneratorsTask.mcs
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.dll.config
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.pdb
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Services.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.AppBridge.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.CodeMarker.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.ExportProvider.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.ManifestService.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Server.Host.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.Spatial.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.xml
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\obj\Debug\InvoiceManagement29239.Server.csprojResolveAssemblyReference.cache
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\obj\Debug\Application.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\obj\Debug\Application.Server.pdb
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSSvcGeneratorsTask.mcs
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSResourceGeneratorsTask.mcs
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSServerCodeGeneratorsTask.mcs
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.dll.config
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.pdb
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Services.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.AppBridge.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.CodeMarker.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.ExportProvider.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.ManifestService.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Server.Host.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.Spatial.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.xml
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\obj\Debug\InvoiceManagement29239.Server.csprojResolveAssemblyReference.cache
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\obj\Debug\Application.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\obj\Debug\Application.Server.pdb
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSSvcGeneratorsTask.mcs
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSResourceGeneratorsTask.mcs
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\LSServerCodeGeneratorsTask.mcs
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.dll.config
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Application.Server.pdb
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.Data.Services.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.AppBridge.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.CodeMarker.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.ExportProvider.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.ManifestService.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.LightSwitch.Server.Host.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.PollingDuplex.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.Spatial.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.EntityFramework.xml
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.xml
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Hosting.OData.xml
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\bin\Debug\System.ServiceModel.DomainServices.Server.xml
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\obj\Debug\Application.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\obj\Debug\Application.Server.pdb

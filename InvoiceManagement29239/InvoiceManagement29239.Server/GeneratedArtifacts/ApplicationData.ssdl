@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="ApplicationDataStore" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ApplicationDataStore">
+    <EntitySet Name="CustomerSet" EntityType="ApplicationDataStore.Customer" store:Type="Tables" Schema="dbo" Table="CustomerSet" />
+    <EntitySet Name="InvoiceSet" EntityType="ApplicationDataStore.Invoice" store:Type="Tables" Schema="dbo" Table="InvoiceSet" />
+    <EntitySet Name="OrderDetailSet" EntityType="ApplicationDataStore.OrderDetail" store:Type="Tables" Schema="dbo" Table="OrderDetailSet" />
+    <EntitySet Name="OrderHeaderSet" EntityType="ApplicationDataStore.OrderHeader" store:Type="Tables" Schema="dbo" Table="OrderHeaderSet" />
+    <EntitySet Name="ProductSet" EntityType="ApplicationDataStore.Product" store:Type="Tables" Schema="dbo" Table="ProductSet" />
+    <AssociationSet Name="OrderHeader_Customer" Association="ApplicationDataStore.OrderHeader_Customer">
+      <End Role="Customer" EntitySet="CustomerSet" />
+      <End Role="OrderHeader" EntitySet="OrderHeaderSet" />
+    </AssociationSet>
+    <AssociationSet Name="Customer_Invoice" Association="ApplicationDataStore.Customer_Invoice">
+      <End Role="Customer" EntitySet="CustomerSet" />
+      <End Role="Invoice" EntitySet="InvoiceSet" />
+    </AssociationSet>
+    <AssociationSet Name="OrderHeader_OrderDetail" Association="ApplicationDataStore.OrderHeader_OrderDetail">
+      <End Role="OrderHeader" EntitySet="OrderHeaderSet" />
+      <End Role="OrderDetail" EntitySet="OrderDetailSet" />
+    </AssociationSet>
+    <AssociationSet Name="Invoice_OrderHeader" Association="ApplicationDataStore.Invoice_OrderHeader">
+      <End Role="OrderHeader" EntitySet="OrderHeaderSet" />
+      <End Role="Invoice" EntitySet="InvoiceSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyName" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="Country" Type="nvarchar" MaxLength="255" />
+    <Property Name="City" Type="nvarchar" MaxLength="255" />
+    <Property Name="Address" Type="nvarchar" MaxLength="255" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="255" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="255" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="255" />
+    <Property Name="ContactName" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="ContactTitle" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="CreatedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Created" Type="datetimeoffset" />
+    <Property Name="ModifiedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Modified" Type="datetimeoffset" />
+    <Property Name="RowVersion" Type="rowversion" Nullable="false" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <EntityType Name="Invoice">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="InvoiceDate" Type="datetime" />
+    <Property Name="InvoiceNumber" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="InvoiceSubject" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="InvoiceDueDate" Type="datetime" />
+    <Property Name="InvoiceDetails" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="Taxes" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="CreatedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Created" Type="datetimeoffset" />
+    <Property Name="ModifiedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Modified" Type="datetimeoffset" />
+    <Property Name="RowVersion" Type="rowversion" Nullable="false" StoreGeneratedPattern="Computed" />
+    <Property Name="Customer_Invoice" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UnitPrice" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Quantity" Type="int" Nullable="false" />
+    <Property Name="Discount" Type="decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="CreatedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Created" Type="datetimeoffset" />
+    <Property Name="ModifiedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Modified" Type="datetimeoffset" />
+    <Property Name="RowVersion" Type="rowversion" Nullable="false" StoreGeneratedPattern="Computed" />
+    <Property Name="OrderHeader_OrderDetail" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OrderHeader">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="OrderDate" Type="datetime" Nullable="false" />
+    <Property Name="RequiredDate" Type="datetime" Nullable="false" />
+    <Property Name="ShippedDate" Type="datetime" />
+    <Property Name="Freight" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="ShipCountry" Type="nvarchar" MaxLength="255" />
+    <Property Name="ShipCity" Type="nvarchar" MaxLength="255" />
+    <Property Name="ShipAddress" Type="nvarchar" MaxLength="255" />
+    <Property Name="EmployeesItem_EmployeeID" Type="int" />
+    <Property Name="CreatedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Created" Type="datetimeoffset" />
+    <Property Name="ModifiedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Modified" Type="datetimeoffset" />
+    <Property Name="RowVersion" Type="rowversion" Nullable="false" StoreGeneratedPattern="Computed" />
+    <Property Name="OrderHeader_Customer" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="ProductImage" Type="varbinary(max)" />
+    <Property Name="UnitsInStock" Type="int" Nullable="false" />
+    <Property Name="Category" Type="int" />
+    <Property Name="CreatedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Created" Type="datetimeoffset" />
+    <Property Name="ModifiedBy" Type="nvarchar" MaxLength="255" />
+    <Property Name="Modified" Type="datetimeoffset" />
+    <Property Name="RowVersion" Type="rowversion" Nullable="false" StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <Association Name="OrderHeader_Customer">
+    <End Role="Customer" Type="ApplicationDataStore.Customer" Multiplicity="1">
+      <OnDeleteAnnotation Action="Restrict" xmlns="http://schemas.microsoft.com/LightSwitch/2013/edm/annotations" />
+    </End>
+    <End Role="OrderHeader" Type="ApplicationDataStore.OrderHeader" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderHeader">
+        <PropertyRef Name="OrderHeader_Customer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Customer_Invoice">
+    <End Role="Customer" Type="ApplicationDataStore.Customer" Multiplicity="1">
+      <OnDeleteAnnotation Action="Restrict" xmlns="http://schemas.microsoft.com/LightSwitch/2013/edm/annotations" />
+    </End>
+    <End Role="Invoice" Type="ApplicationDataStore.Invoice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Invoice">
+        <PropertyRef Name="Customer_Invoice" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="OrderHeader_OrderDetail">
+    <End Role="OrderHeader" Type="ApplicationDataStore.OrderHeader" Multiplicity="1">
+      <OnDeleteAnnotation Action="Restrict" xmlns="http://schemas.microsoft.com/LightSwitch/2013/edm/annotations" />
+    </End>
+    <End Role="OrderDetail" Type="ApplicationDataStore.OrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OrderHeader">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderDetail">
+        <PropertyRef Name="OrderHeader_OrderDetail" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Invoice_OrderHeader">
+    <End Role="OrderHeader" Type="ApplicationDataStore.OrderHeader" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Invoice" Type="ApplicationDataStore.Invoice" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="OrderHeader">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Invoice">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

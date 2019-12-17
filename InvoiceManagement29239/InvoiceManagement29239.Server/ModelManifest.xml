@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\ApplicationData\CustomerSet.lsml" Checksum="5BBB7B8E6BF0CA2735214EE86C476BADCF187CF18EFB734DE535C01B1AC49BC1" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\ApplicationData\InvoiceSet.lsml" Checksum="016B48B5938738F103BECC8C76536D41BE27879E7B352B2D38D04A44F462F680" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\ApplicationData\OrderDetailSet.lsml" Checksum="7B70152C6292310F35482040A2371E4DF092E93FA1611E350F456575214909C7" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\ApplicationData\OrderHeaderSet.lsml" Checksum="8F138153EA339445A739B91E45A75D2AD02BEBFB796C67E07AFB2D1A982DF4D7" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\ApplicationData\ProductSet.lsml" Checksum="8CC2ED13DE4CADE2D1E67EBD468A28E0FBC0017622D4C106F3DCCE86EC5997CD" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\NorthwindData\Categories.lsml" Checksum="718230CECDC90258202AFB2A292AD4A26AA9F5AE430AE957BB06E311B775D414" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\NorthwindData\Product_Sales_for_1997.lsml" Checksum="72C968A009341882113638999E70C42E8DAB2A5687457C9D6180AD1B6A76948B" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\NorthwindData\Products.lsml" Checksum="619BA460AD727C50D21C2282658B2B0C21514F9C862D2889578329B565A8E438" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\DataSources\NorthwindData1\Employees.lsml" Checksum="CCA7DBF2F835A1DCC43830EFCCAF536472A75AFD33CF4BACB1968F8414EEA147" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\Properties\DataSources\ApplicationData.lsml" Checksum="E6FEEAC3B4A850AAC5F0029259A0B9F8C1BD45F2950D17BD8D6664B9422E6AD6" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\Properties\DataSources\NorthwindData.lsml" Checksum="2BB63BE1BD43C7AF30165A391DCB2ACADCE24403CB22168EA75D900571560B59" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\Properties\DataSources\NorthwindData1.lsml" Checksum="841B3543346187FECAA4830095280444AF56607AD97818953B6AECE0F00988B9" />
+    <Document FullPath="C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\InvoiceManagement29239.Server\Properties\Service.lsml" Checksum="A9122AA4F9554591E486D756E5955D1B1FD6D01AE5C6F41131A47E656E16C8D3" />
+  </Documents>
+</ModelDocumentManifest>

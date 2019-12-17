@@ -1,0 +1,116 @@
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe.config
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe.manifest
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\ClientAccessPolicy.xml
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Microsoft.LightSwitch.Design.svc
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Microsoft.LightSwitch.SecurityData.svc
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\web.config
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\default.aspx
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\diagnostics.wadcfg
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Web\Manifests\Microsoft.LightSwitch.Server.Manifest.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.PollingDuplex.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Application.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Edm.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.OData.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Services.Client.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Services.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.AppBridge.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.CodeMarker.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.ExportProvider.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.ManifestService.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Server.Host.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.Spatial.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\packages.config
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\ApplicationData.svc
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\NorthwindData.svc
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\default.htm
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\Silverlight.js
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\web\InvoiceManagement29239.DesktopClient.xap
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe.config
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe.manifest
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\ClientAccessPolicy.xml
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Microsoft.LightSwitch.Design.svc
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Microsoft.LightSwitch.SecurityData.svc
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\web.config
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\default.aspx
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\diagnostics.wadcfg
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Web\Manifests\Microsoft.LightSwitch.Server.Manifest.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.PollingDuplex.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Application.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Edm.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.OData.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Services.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.AppBridge.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.CodeMarker.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.ExportProvider.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.ManifestService.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Server.Host.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.Spatial.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\packages.config
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\ApplicationData.svc
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\NorthwindData.svc
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\default.htm
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\Silverlight.js
+C:\Users\Debo\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\web\InvoiceManagement29239.DesktopClient.xap
+C:\Users\alumnoadmin\Documents\Visual Studio 2015\Projects\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\NorthwindData1.svc
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe.config
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\vslshost.exe.manifest
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\ClientAccessPolicy.xml
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Microsoft.LightSwitch.Design.svc
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Microsoft.LightSwitch.SecurityData.svc
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\web.config
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\default.aspx
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\diagnostics.wadcfg
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\Web\Manifests\Microsoft.LightSwitch.Server.Manifest.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.PollingDuplex.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Application.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Edm.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.OData.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Services.Client.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.Data.Services.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.AppBridge.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.CodeMarker.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.ExportProvider.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Extensions.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.ManifestService.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Model.Xaml.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.LightSwitch.Server.Host.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.EntityFramework.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Hosting.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Hosting.OData.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.ServiceModel.DomainServices.Server.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\System.Spatial.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\packages.config
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\ApplicationData.svc
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\NorthwindData.svc
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\NorthwindData1.svc
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\default.htm
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\Silverlight.js
+C:\Users\alumnoadmin\Desktop\InvoiceManagement29239\InvoiceManagement29239\bin\Debug\DesktopClient\web\InvoiceManagement29239.DesktopClient.xap

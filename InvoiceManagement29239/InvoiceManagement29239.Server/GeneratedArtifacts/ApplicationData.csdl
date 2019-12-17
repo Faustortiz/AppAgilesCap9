@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" Namespace="LightSwitchApplication" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Edm.Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyName" Type="Edm.String" Nullable="false" MaxLength="255" />
+    <Property Name="Country" Type="Edm.String" MaxLength="255" />
+    <Property Name="City" Type="Edm.String" MaxLength="255" />
+    <Property Name="Address" Type="Edm.String" MaxLength="255" />
+    <Property Name="EmailAddress" Type="Edm.String" MaxLength="255" />
+    <Property Name="PhoneNumber" Type="Edm.String" MaxLength="255" />
+    <Property Name="PostalCode" Type="Edm.String" MaxLength="255" />
+    <Property Name="ContactName" Type="Edm.String" Nullable="false" MaxLength="255" />
+    <Property Name="ContactTitle" Type="Edm.String" Nullable="false" MaxLength="255" />
+    <Property Name="CreatedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Created" Type="Edm.DateTimeOffset" />
+    <Property Name="ModifiedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Modified" Type="Edm.DateTimeOffset" />
+    <Property Name="RowVersion" Type="Edm.Binary" Nullable="false" ConcurrencyMode="Fixed" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="OrderHeaderCollection" Relationship="LightSwitchApplication.OrderHeader_Customer" ToRole="OrderHeader" FromRole="Customer" />
+    <NavigationProperty Name="InvoiceCollection" Relationship="LightSwitchApplication.Customer_Invoice" ToRole="Invoice" FromRole="Customer" />
+  </EntityType>
+  <EntityType Name="Invoice">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Edm.Int32" Nullable="false" />
+    <Property Name="InvoiceDate" Type="Edm.DateTime" />
+    <Property Name="InvoiceNumber" Type="Edm.String" Nullable="false" MaxLength="255" />
+    <Property Name="InvoiceSubject" Type="Edm.String" Nullable="false" MaxLength="255" />
+    <Property Name="InvoiceDueDate" Type="Edm.DateTime" />
+    <Property Name="InvoiceDetails" Type="Edm.String" Nullable="false" MaxLength="255" />
+    <Property Name="Taxes" Type="Edm.Decimal" Precision="18" Scale="2" />
+    <Property Name="Customer_Invoice" Type="Edm.Int32" Nullable="false" />
+    <Property Name="CreatedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Created" Type="Edm.DateTimeOffset" />
+    <Property Name="ModifiedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Modified" Type="Edm.DateTimeOffset" />
+    <Property Name="RowVersion" Type="Edm.Binary" Nullable="false" ConcurrencyMode="Fixed" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="OrderHeader" Relationship="LightSwitchApplication.Invoice_OrderHeader" ToRole="OrderHeader" FromRole="Invoice" />
+    <NavigationProperty Name="Customer" Relationship="LightSwitchApplication.Customer_Invoice" ToRole="Customer" FromRole="Invoice" />
+  </EntityType>
+  <EntityType Name="OrderDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Edm.Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UnitPrice" Type="Edm.Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="Quantity" Type="Edm.Int32" Nullable="false" />
+    <Property Name="Discount" Type="Edm.Decimal" Nullable="false" Precision="18" Scale="2" />
+    <Property Name="OrderHeader_OrderDetail" Type="Edm.Int32" Nullable="false" />
+    <Property Name="CreatedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Created" Type="Edm.DateTimeOffset" />
+    <Property Name="ModifiedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Modified" Type="Edm.DateTimeOffset" />
+    <Property Name="RowVersion" Type="Edm.Binary" Nullable="false" ConcurrencyMode="Fixed" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="OrderHeader" Relationship="LightSwitchApplication.OrderHeader_OrderDetail" ToRole="OrderHeader" FromRole="OrderDetail" />
+  </EntityType>
+  <EntityType Name="OrderHeader">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Edm.Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OrderDate" Type="Edm.DateTime" Nullable="false" />
+    <Property Name="RequiredDate" Type="Edm.DateTime" Nullable="false" />
+    <Property Name="ShippedDate" Type="Edm.DateTime" />
+    <Property Name="Freight" Type="Edm.Decimal" Precision="18" Scale="2" />
+    <Property Name="ShipCountry" Type="Edm.String" MaxLength="255" />
+    <Property Name="ShipCity" Type="Edm.String" MaxLength="255" />
+    <Property Name="ShipAddress" Type="Edm.String" MaxLength="255" />
+    <Property Name="OrderHeader_Customer" Type="Edm.Int32" Nullable="false" />
+    <Property Name="EmployeesItem_EmployeeID" Type="Edm.Int32" />
+    <Property Name="CreatedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Created" Type="Edm.DateTimeOffset" />
+    <Property Name="ModifiedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Modified" Type="Edm.DateTimeOffset" />
+    <Property Name="RowVersion" Type="Edm.Binary" Nullable="false" ConcurrencyMode="Fixed" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Customer" Relationship="LightSwitchApplication.OrderHeader_Customer" ToRole="Customer" FromRole="OrderHeader" />
+    <NavigationProperty Name="OrderDetailCollection" Relationship="LightSwitchApplication.OrderHeader_OrderDetail" ToRole="OrderDetail" FromRole="OrderHeader" />
+    <NavigationProperty Name="Invoice" Relationship="LightSwitchApplication.Invoice_OrderHeader" ToRole="Invoice" FromRole="OrderHeader" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Edm.Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductName" Type="Edm.String" Nullable="false" MaxLength="255" />
+    <Property Name="ProductImage" Type="Edm.Binary" MaxLength="Max" />
+    <Property Name="UnitsInStock" Type="Edm.Int32" Nullable="false" />
+    <Property Name="Category" Type="Edm.Int32" />
+    <Property Name="CreatedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Created" Type="Edm.DateTimeOffset" />
+    <Property Name="ModifiedBy" Type="Edm.String" MaxLength="255" />
+    <Property Name="Modified" Type="Edm.DateTimeOffset" />
+    <Property Name="RowVersion" Type="Edm.Binary" Nullable="false" ConcurrencyMode="Fixed" annotation:StoreGeneratedPattern="Computed" />
+  </EntityType>
+  <Association Name="OrderHeader_Customer">
+    <End Role="Customer" Type="LightSwitchApplication.Customer" Multiplicity="1" />
+    <End Role="OrderHeader" Type="LightSwitchApplication.OrderHeader" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderHeader">
+        <PropertyRef Name="OrderHeader_Customer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Customer_Invoice">
+    <End Role="Customer" Type="LightSwitchApplication.Customer" Multiplicity="1" />
+    <End Role="Invoice" Type="LightSwitchApplication.Invoice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Invoice">
+        <PropertyRef Name="Customer_Invoice" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="OrderHeader_OrderDetail">
+    <End Role="OrderHeader" Type="LightSwitchApplication.OrderHeader" Multiplicity="1" />
+    <End Role="OrderDetail" Type="LightSwitchApplication.OrderDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OrderHeader">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="OrderDetail">
+        <PropertyRef Name="OrderHeader_OrderDetail" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="Invoice_OrderHeader">
+    <End Role="OrderHeader" Type="LightSwitchApplication.OrderHeader" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Invoice" Type="LightSwitchApplication.Invoice" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="OrderHeader">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Invoice">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ApplicationData" m:IsDefaultEntityContainer="true">
+    <EntitySet Name="CustomerSet" EntityType="LightSwitchApplication.Customer" />
+    <EntitySet Name="InvoiceSet" EntityType="LightSwitchApplication.Invoice" />
+    <EntitySet Name="OrderDetailSet" EntityType="LightSwitchApplication.OrderDetail" />
+    <EntitySet Name="OrderHeaderSet" EntityType="LightSwitchApplication.OrderHeader" />
+    <EntitySet Name="ProductSet" EntityType="LightSwitchApplication.Product" />
+    <AssociationSet Name="OrderHeader_Customer" Association="LightSwitchApplication.OrderHeader_Customer">
+      <End Role="Customer" EntitySet="CustomerSet" />
+      <End Role="OrderHeader" EntitySet="OrderHeaderSet" />
+    </AssociationSet>
+    <AssociationSet Name="Customer_Invoice" Association="LightSwitchApplication.Customer_Invoice">
+      <End Role="Customer" EntitySet="CustomerSet" />
+      <End Role="Invoice" EntitySet="InvoiceSet" />
+    </AssociationSet>
+    <AssociationSet Name="OrderHeader_OrderDetail" Association="LightSwitchApplication.OrderHeader_OrderDetail">
+      <End Role="OrderHeader" EntitySet="OrderHeaderSet" />
+      <End Role="OrderDetail" EntitySet="OrderDetailSet" />
+    </AssociationSet>
+    <AssociationSet Name="Invoice_OrderHeader" Association="LightSwitchApplication.Invoice_OrderHeader">
+      <End Role="OrderHeader" EntitySet="OrderHeaderSet" />
+      <End Role="Invoice" EntitySet="InvoiceSet" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
